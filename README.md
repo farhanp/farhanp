@@ -20,17 +20,16 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
 
-### 👨‍💻 About Me
-I am a **Frontend Developer** with **6+ years of experience** crafting high-performance digital experiences. I specialize in bridging the gap between complex engineering and intuitive, pixel-perfect user interfaces.
+### 🧑🏻‍💻 About Me
+I am a frontend developer with over 6 years of experience crafting high-performance digital experiences. I specialize in bridging the gap between complex engineering and intuitive, pixel-perfect user interfaces.
 
 * **Core Competency:** Building scalable, high-performance web applications using **React** and **JavaScript**.
 * **Engineering Philosophy:** Scalable, Maintainable, and Accessible.
 * **Impact:** Recently improved application efficiency by **60%** through advanced performance optimization.
-
     </td>
-    <td width="45%" valign="top">
+    <td width="55%" valign="top">
 
 ### ⚡ Recent Activity
 <div align="center">
@@ -41,7 +40,7 @@ I am a **Frontend Developer** with **6+ years of experience** crafting high-perf
 <div align="left">
 &nbsp;&nbsp;🔭 <b>Currently Working On:</b>
 <br/>
-[cite_start]&nbsp;&nbsp;Perosnal.Finance - Track your finance smartly
+&nbsp;&nbsp;🏦 Personal.Finance - Track your finances smartly
 <br/>
 <br/>
 &nbsp;&nbsp;🌱 <b>Learning:</b>
