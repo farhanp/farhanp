@@ -33,7 +33,7 @@ I am a frontend developer with over 6 years of experience crafting high-performa
 
 ### ⚡ Recent Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanp&theme=react-dark&hide_border=true&area=true&hide_title=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanp&bg_color=000000&color=b388eb&line=b388eb&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" />
 </div>
 
 <br/>
@@ -93,8 +93,8 @@ I am a frontend developer with over 6 years of experience crafting high-performa
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanp&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farhanp&show_icons=true&bg_color=45,000000,30004a&title_color=b388eb&text_color=ffffff&icon_color=b388eb&hide_border=true&count_private=true" height="180" alt="farhanp github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanp&layout=compact&bg_color=45,000000,30004a&title_color=b388eb&text_color=ffffff&hide_border=true" height="180" alt="farhanp top languages" />
 </div>
 
 <br />
