@@ -32,8 +32,8 @@ I am a frontend developer with over 6 years of experience crafting high-performa
     <td width="55%" valign="top">
 
 ### ⚡ Recent Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanp&bg_color=000000&color=b388eb&line=b388eb&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" />
+ <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanp&theme=react-dark&bg_color=000000&color=b388eb&line=b388eb&point=ffffff&area=true&hide_border=true&hide_title=true&t=1" width="100%" />
 </div>
 
 <br/>
