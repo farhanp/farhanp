@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with a love for creating interactive web applications. With over 5 years of coding experience, I've developed a diverse portfolio of projects ranging from simple utilities to complex web applications.  I'm constantly learning and exploring new technologies to improve my craft.
+I'm a passionate frontend developer with a love for creating interactive web applications. With over 6+ years of coding experience, I've developed a diverse portfolio of projects ranging from simple utilities to complex web applications.  I'm constantly learning and exploring new technologies to improve my craft.
 
 ---
 
