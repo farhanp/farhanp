@@ -23,7 +23,7 @@
     <td width="50%" valign="top">
 
 ### 🧑🏻‍💻 About Me
-I am a frontend developer with over 6 years of experience crafting high-performance digital experiences. I specialize in bridging the gap between complex engineering and intuitive, pixel-perfect user interfaces.
+I am a frontend developer with over 7.5 years of experience crafting high-performance digital experiences. I specialize in bridging the gap between complex engineering and intuitive, pixel-perfect user interfaces.
 
 * **Core Competency:** Building scalable, high-performance web applications using **React** and **JavaScript**.
 * **Engineering Philosophy:** Scalable, Maintainable, and Accessible.
